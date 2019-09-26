@@ -5,4 +5,9 @@ a depo project for python
 
 This project requires Python 3 and the requests package;
 
-`python3 find_meteors.py`
+First install pipenv. Then:
+
+```
+pipenv install
+python3 find_meteors.py
+```
